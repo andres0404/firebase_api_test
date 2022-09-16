@@ -1,0 +1,15 @@
+{
+  "name": "firebase-api",
+  "version": "1.0.0",
+  "description": "api firebase para curso svelte",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "svelte",
+    "api"
+  ],
+  "author": "Andres Silva",
+  "license": "MIT"
+}
